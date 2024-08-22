@@ -25,6 +25,7 @@ table{
 .rst-content table.docutils-nobg th{
     border-bottom: 1px solid #e1e4e5;
     border-left: 1px solid #e1e4e5;
+    height: 50px;
 }
 
 .rst-content table.docutils-nobg td{
